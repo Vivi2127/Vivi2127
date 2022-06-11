@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vipul aka Max.
 - 👀 I’m interested in Python and ML.
 - 🌱 I’m currently learning Various frameworks.
-- 💞️ I’m looking to collaborate on xxx 
+- 💞️ I’m looking to collaborate on xxxxxx
 - 📫 How to reach me: vipulpatel062@gmail.com
 
 <!---
